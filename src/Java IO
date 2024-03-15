@@ -1,0 +1,20 @@
+Java Program is taking/reading inputs, processing/calculation/operation and writing/display/printing
+the output.
+
+1. file operations on 'byte data' we use 
+			- FileOutputStream
+			- FileInputStream
+			
+2. file operations on 'character data' we use 
+			- FileWriter
+			- FileReader
+			
+3. file operations on 'group character(word) data' we use 
+			- BufferedReader
+			- BufferedReader
+						
+4. file operations on 'object data' we use 
+			- ObjectOutputStream - Serialization
+			- ObjectInputStream - DeSerialization
+			
+			
